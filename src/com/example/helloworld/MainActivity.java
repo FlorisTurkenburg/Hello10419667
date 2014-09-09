@@ -1,4 +1,4 @@
-/* Author Floris Turkenburg
+/* Author: Floris Turkenburg
  * UvANetID: 10419667
  * E-Mail: sk8_floris@hotmail.com
  */
@@ -6,6 +6,7 @@
 package com.example.helloworld;
 
 import java.util.Random;
+import com.example.helloworld.R;
 
 import android.content.Intent;
 import android.graphics.Color;

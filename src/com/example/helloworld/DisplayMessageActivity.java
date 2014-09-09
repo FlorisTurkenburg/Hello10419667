@@ -1,4 +1,4 @@
-/* Author Floris Turkenburg
+/* Author: Floris Turkenburg
  * UvANetID: 10419667
  * E-Mail: sk8_floris@hotmail.com
  */
@@ -11,6 +11,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import com.example.helloworld.R;
 
 public class DisplayMessageActivity extends ActionBarActivity {
 
